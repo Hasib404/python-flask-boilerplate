@@ -3,12 +3,14 @@
 ### Clone the Repo
 
     ```
+    
     $ git clone https://github.com/Hasib404/python-flask-boilerplate.git
     ```
 
 ### Create a virtual environment first,
 
-    ```sh
+    ```
+
     $ pip install virtualenv
     $ cd my-project/
     $ virtualenv venv
