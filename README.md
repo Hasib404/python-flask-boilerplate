@@ -2,7 +2,7 @@
 
 ### Clone the Repo
 
-    ```sh
+    ```
     $ git clone https://github.com/Hasib404/python-flask-boilerplate.git
     ```
 
@@ -20,7 +20,7 @@ Uses the default Flask development server.
 
 1. Build the images and run the containers:
 
-    ```sh
+    ```
     $ docker-compose up -d --build
     ```
 
