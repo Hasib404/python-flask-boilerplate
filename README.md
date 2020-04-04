@@ -2,20 +2,20 @@
 
 ### Clone the Repo
 
-    ```
-    
+
+
     $ git clone https://github.com/Hasib404/python-flask-boilerplate.git
-    ```
+
 
 ### Create a virtual environment first,
 
-    ```
+
 
     $ pip install virtualenv
     $ cd my-project/
     $ virtualenv venv
     $ source venv/bin/activate
-    ```
+
 ### Development
 
 Uses the default Flask development server.
