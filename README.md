@@ -1,11 +1,13 @@
 # Dockerizing Flask with Postgres, Gunicorn, and Nginx
 
 ### Clone the Repo
+
     ```sh
     $ git clone https://github.com/Hasib404/python-flask-boilerplate.git
     ```
-    
+
 ### Create a virtual environment first,
+
     ```sh
     $ pip install virtualenv
     $ cd my-project/
